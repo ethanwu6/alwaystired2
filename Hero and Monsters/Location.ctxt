@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Location()
+comment1.params=herox\ heroy\ monsterArray\ potionArray\ swordArray\ armorArray\ villagerArray
+comment1.target=int\ check(int,\ int,\ java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList)
+numComments=2

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Potion
+comment1.params=potionnum
+comment1.target=Potion(int)
+comment2.params=
+comment2.target=int\ getx()
+comment3.params=
+comment3.target=int\ gety()
+comment4.params=
+comment4.target=int\ Potency()
+comment5.params=
+comment5.target=void\ resetx()
+comment6.params=
+comment6.target=void\ resety()
+numComments=7
